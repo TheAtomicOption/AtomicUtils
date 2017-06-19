@@ -1,0 +1,7 @@
+P:\My Documents\Visual Studio 2005\Projects\FileOrganizerSource\bin\FileOrganizer.exe
+P:\My Documents\Visual Studio 2005\Projects\FileOrganizerSource\bin\FileOrganizer.xml
+P:\My Documents\Visual Studio 2005\Projects\FileOrganizerSource\obj\Release\ResolveAssemblyReference.cache
+P:\My Documents\Visual Studio 2005\Projects\FileOrganizerSource\obj\Release\FileOrganizer.IDVB_MAIN.resources
+P:\My Documents\Visual Studio 2005\Projects\FileOrganizerSource\obj\Release\FileOrganizer.vbproj.GenerateResource.Cache
+P:\My Documents\Visual Studio 2005\Projects\FileOrganizerSource\obj\Release\FileOrganizer.exe
+P:\My Documents\Visual Studio 2005\Projects\FileOrganizerSource\obj\Release\FileOrganizer.xml

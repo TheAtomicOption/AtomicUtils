@@ -1,0 +1,18 @@
+	//Target 16bit checksum for cedar8.bin = 0x292C on 16777216 bytes
+	//Target 8-bit checksum for cedar8.bin = 843A61CC
+	//Target 16bit Intel CS for cedar8.bin = 651EB076
+	//Target 32bit Intel CS for cedar8.bin = 0BA1D71A
+	
+	//Target 16bit MotorolaCSof cedar8.bin = 597D7D56
+	//Target 32bit MotorolaCSof cedar8.bin = 75F12EA8
+	//Target 32bit CRC			cedar8.ben = 8333E006
+
+	//Current Results from buffer code:
+	// 8bit 843a61cc ---GOOD!
+	//16bit 597d7d56, 651eb076 --GOOD!
+	//32bit c2e8eca8, 9F2D95C (0)ba1d71a --Good!
+	//bytes 16777216 ---GOOD!
+	//crc8  69e3d6b
+
+
+	F:\Visual Studio Projects\Checksum C\cedar8.bin

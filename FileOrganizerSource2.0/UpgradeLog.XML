@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FileOrganizer">
+</Property><Property Name="Solution File" Value="P:\My Documents\Visual Studio 2005\Projects\FileOrganizerSource\FileOrganizer.sln">
+</Property><Property Name="Date" Value="Thursday, June 04, 2009">
+</Property><Property Name="Time" Value="10:55 AM">
+</Property></Properties><Event ErrorLevel="0" Project="FileOrganizer" Source="FileOrganizer.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FileOrganizer" Source="FileOrganizer.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FileOrganizer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FileOrganizer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FileOrganizer" Source="FileOrganizer.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
